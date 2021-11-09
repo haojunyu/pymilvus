@@ -27,7 +27,7 @@ setuptools.setup(
         "ujson>=2.0.0",
         "mmh3",
         "pandas==1.1.5; python_version<'3.7'",
-        "pandas==1.2.4; python_version>'3.6'",
+        "pandas==1.3.0; python_version>'3.6'",
     ],
     classifiers=[
         "Programming Language :: Python :: 3.6",
